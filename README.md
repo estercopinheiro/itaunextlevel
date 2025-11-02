@@ -2,15 +2,15 @@
 
 Itaú Next Level is a beyond-banking service for 30+ people focused on professional and financial development.
 
+![Capa do projeto 'Itaú Next Level: Capacitando a Próxima Fase'. O projeto é uma parceria Itaú com a EBAC [Escola Britânica de Artes Criativas], focado em Beyond Banking. Menciona as habilidades UI/UX, Figma, Design Thinking e Double Diamond. No canto inferior esquerdo está o nome 'Ester Pinheiro'. À direita, sobre um fundo laranja, duas mãos seguram um smartphone exibindo uma interface digital do projeto.](/assets/Capa.png "Cover")
 
-[![Capa do projeto 'Itaú Next Level: Capacitando a Próxima Fase'. O projeto é uma parceria Itaú com a EBAC [Escola Britânica de Artes Criativas], focado em Beyond Banking. Menciona as habilidades UI/UX, Figma, Design Thinking e Double Diamond. No canto inferior esquerdo está o nome 'Ester Pinheiro'. À direita, sobre um fundo laranja, duas mãos seguram um smartphone exibindo uma interface digital do projeto.](/assets/capa.png "Cover")](https://www.figma.com/design/zmQiYFrzDEs0ja5T0Vdk3W/Ita%C3%BA-Project?node-id=0-1)
+[Figma](https://www.figma.com/design/zmQiYFrzDEs0ja5T0Vdk3W/Ita%C3%BA-Project?node-id=0-1)
 
 ## Documentation
 
 [Documentation](https://www.behance.net/gallery/227861185/Itau-Next-Level)
 
 ![Demonstração do projeto](./assets/Finalportfolio.gif)
-
 
 ## Style Guide
 
